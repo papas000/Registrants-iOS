@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1CF744B7248CF8FA00F77994 /* WebView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1CF744B7248CF8FA00F77994 /* Registrants.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Registrants.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1CF744BA248CF8FA00F77994 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1CF744BC248CF8FA00F77994 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1CF744BF248CF8FA00F77994 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -46,7 +46,7 @@
 		1CF744B8248CF8FA00F77994 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				1CF744B7248CF8FA00F77994 /* WebView.app */,
+				1CF744B7248CF8FA00F77994 /* Registrants.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -67,9 +67,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		1CF744B6248CF8FA00F77994 /* WebView */ = {
+		1CF744B6248CF8FA00F77994 /* Registrants */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 1CF744C9248CF8FD00F77994 /* Build configuration list for PBXNativeTarget "WebView" */;
+			buildConfigurationList = 1CF744C9248CF8FD00F77994 /* Build configuration list for PBXNativeTarget "Registrants" */;
 			buildPhases = (
 				1CF744B3248CF8FA00F77994 /* Sources */,
 				1CF744B4248CF8FA00F77994 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = WebView;
+			name = Registrants;
 			productName = WebView;
-			productReference = 1CF744B7248CF8FA00F77994 /* WebView.app */;
+			productReference = 1CF744B7248CF8FA00F77994 /* Registrants.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 1CF744B2248CF8FA00F77994 /* Build configuration list for PBXProject "WebView" */;
+			buildConfigurationList = 1CF744B2248CF8FA00F77994 /* Build configuration list for PBXProject "Registrants" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				1CF744B6248CF8FA00F77994 /* WebView */,
+				1CF744B6248CF8FA00F77994 /* Registrants */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1CF744B2248CF8FA00F77994 /* Build configuration list for PBXProject "WebView" */ = {
+		1CF744B2248CF8FA00F77994 /* Build configuration list for PBXProject "Registrants" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CF744C7248CF8FD00F77994 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		1CF744C9248CF8FD00F77994 /* Build configuration list for PBXNativeTarget "WebView" */ = {
+		1CF744C9248CF8FD00F77994 /* Build configuration list for PBXNativeTarget "Registrants" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1CF744CA248CF8FD00F77994 /* Debug */,
